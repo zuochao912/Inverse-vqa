@@ -1,0 +1,6 @@
+data/*
+weights/*
+*.json
+/.vector_cache
+*.zip
+*.pyc
